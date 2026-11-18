@@ -9,3 +9,6 @@ Google drive of links to data
 * Predict reduction in emissions if the boiler did have scrubber
 * Use EPA to predict cost of installing scrubber - linear regression
 
+## Additional Links:
+- https://www.eia.gov/electricity/data/emissions/
+- https://www.eia.gov/electricity/annual/ 
